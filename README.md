@@ -10,6 +10,7 @@ Senior Computer Vision Engineer in Bologna, building 3D vision products for indu
 
 ##### Contacts
 💼 [LinkedIn](https://www.linkedin.com/in/damiano-bolognini-453136202)
+
 📫 [Mail me](mailto:damianobolognini1997@gmail.com)
 
 <p align="center">
